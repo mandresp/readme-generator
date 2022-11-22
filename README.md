@@ -18,7 +18,7 @@ https://mandresp.github.io/readme-generator/
 
 ## Walkthrough Video
 
-![Walkthrough Video](./Develop/Assets/walkthrough.gif)
+![Walkthrough Video](./walkthrough.gif)
 
 ## Credits
 
