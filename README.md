@@ -12,10 +12,6 @@ Run "npm i" then "node index.js".
 
 After running node you will be prompted to answer the questions. Once you have answered all of the questions the README will be generated according to what you input and the license that you chose will be inserted.
 
-## Website Link
-
-https://mandresp.github.io/readme-generator/
-
 ## Walkthrough Video
 
 ![Walkthrough Video](./walkthrough.gif)
